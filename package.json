@@ -1,16 +1,16 @@
 {
-"name": "walletslot777",
-"theme": "wallet slot777",
-"version": "1.6.3",
-"description": "wallet slot777 สมัครเว็บไซต์บาคาร่าเว็บตรง สมาชิกเยอะ แจกเงินเครดิตฟรี",
-"keywords": [
-"wallet slot777",
-"wallet slot777 เครดิตฟรี",
-"wallet slot777 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/walletslot777",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "walletslot777",
+  "theme": "wallet slot777",
+  "version": "1.7.0",
+  "description": "wallet slot777 สมัครเว็บไซต์บาคาร่าเว็บตรง สมาชิกเยอะ แจกเงินเครดิตฟรี",
+  "keywords": [
+    "wallet slot777",
+    "wallet slot777 เครดิตฟรี",
+    "wallet slot777 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/walletslot777",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
